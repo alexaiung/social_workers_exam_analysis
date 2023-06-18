@@ -1,0 +1,16 @@
+- quantas horas vou levar
+- quanto tempo vou dedicar por dia
+- daí o número de dias
+- quanto eu quero ganhar por esse período de tempo
+
+validação:
+dividir o valor pelo número de horas
+- descobre valor por hora
+
+R$100/hora? (como jr)
+
+custo de ad gira em torno de 8 e 12k / mês
+x 14
++- 70/hora
+
+Cobrar entre 50 e 100 e focar em construir portifólio
